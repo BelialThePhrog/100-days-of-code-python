@@ -33,7 +33,7 @@ Here I keep track of my daily projects and what I've learned.
 | :---: | :--- | :--- |
 | [Day 1](./Day_01_Band_Name_Generator) | Band Name Generator | Python basics, variables, and string manipulation. |
 | [Day 2](./Day_02_Tip_Calculator) | Tip Calculator | Data types and math operations - splitting the bill and calculating the tip. |
-| [Day 3](./Day_03) | ** | ** |
+| [Day 3](./Day_03) | Treasure Island | Control flow logic, nested `if`/`elif`/`else` statements, and modulo operator. |
 | [Day 4](./Day_04) | ** | ** |
 
 ---
