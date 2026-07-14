@@ -4,7 +4,7 @@ Welcome to my repository! I'm documenting my daily progress and projects from th
 
 ## 🛠 Technologies
 * **Language:** Python 3.x 
-* **Key Libraries:** none so far
+* **Key Libraries:** Random
 * **Tools:** Jupyter notebook
 
 ## 📂 Repository Structure
