@@ -34,8 +34,9 @@ Here I keep track of my daily projects and what I've learned.
 | [Day 1](./Day_01_Band_Name_Generator) | Band Name Generator | Python basics, variables, and string manipulation. |
 | [Day 2](./Day_02_Tip_Calculator) | Tip Calculator | Data types and math operations - splitting the bill and calculating the tip. |
 | [Day 3](./Day_03) | Treasure Island | Control flow logic, nested `if`/`elif`/`else` statements, and modulo operator. |
-|  [Day 4](./Day_04_Random_and_Lists) | Rock, Paper, Scissors | Randomization, Python Lists, nested lists, and index manipulation. |
+| [Day 4](./Day_04_Random_and_Lists) | Rock, Paper, Scissors | Randomization, Python Lists, nested lists, and index manipulation. |
 | [Day 5](./Day_05_For_Loops) | PyPassword Generator | `for` loops, `range()`, and `random` list shuffling. |
+| [Day 6](./Day_06_Functions) | Reeborg's World | Defining custom functions, scope, and `while` loops. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
