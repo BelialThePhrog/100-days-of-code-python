@@ -37,6 +37,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day 4](./Day_04_Random_and_Lists) | Rock, Paper, Scissors | Randomization, Python Lists, nested lists, and index manipulation. |
 | [Day 5](./Day_05_For_Loops) | PyPassword Generator | `for` loops, `range()`, and `random` list shuffling. |
 | [Day 6](./Day_06_Functions) | Reeborg's World | Defining custom functions, scope, and `while` loops. |
+| [Day 7](./Day_07_Hangman) | Hangman | Bringing together loops, conditionals, list manipulation, and ASCII art. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
