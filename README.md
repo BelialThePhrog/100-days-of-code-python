@@ -14,7 +14,7 @@ All days are organized into separate folders. Each folder contains the source co
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/100-days-of-code.git](https://github.com/YOUR_USERNAME/100-days-of-code.git)
+   git clone [https://github.com/BelialThePhrog/100-days-of-code.git](https://github.com/BelialThePhrog/100-days-of-code.git)
    ```
 2. Navigate to a specific day's folder:
    ```bash
