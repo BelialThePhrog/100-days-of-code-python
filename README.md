@@ -38,6 +38,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day 5](./Day_05_For_Loops) | PyPassword Generator | `for` loops, `range()`, and `random` list shuffling. |
 | [Day 6](./Day_06_Functions) | Reeborg's World | Defining custom functions, scope, and `while` loops. |
 | [Day 7](./Day_07_Hangman) | Hangman | Bringing together loops, conditionals, list manipulation, and ASCII art. |
+| [Day 8](./Day_08_Caesar_Cipher) | Caesar Cipher | Function parameters, modulo operator, and string manipulation. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
