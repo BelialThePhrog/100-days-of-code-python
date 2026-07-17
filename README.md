@@ -39,6 +39,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day 6](./Day_06_Functions) | Reeborg's World | Defining custom functions, scope, and `while` loops. |
 | [Day 7](./Day_07_Hangman) | Hangman | Bringing together loops, conditionals, list manipulation, and ASCII art. |
 | [Day 8](./Day_08_Caesar_Cipher) | Caesar Cipher | Function parameters, modulo operator, and string manipulation. |
-
+| [Day 9](./Day_09_Dictionaries_and_Auction) | Secret Auction | Dictionaries, key-value pairs, nested lists, and console clearing. |
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
