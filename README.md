@@ -30,7 +30,7 @@ All days are organized into separate folders. Each folder contains the source co
 Here I keep track of my daily projects and what I've learned.
 
 | Day | Project | Brief Description |
-| :---: | :--- | :--- |
+| :-----: | :--- | :--- |
 | [Day 1](./Day_01_Band_Name_Generator) | Band Name Generator | Python basics, variables, and string manipulation. |
 | [Day 2](./Day_02_Tip_Calculator) | Tip Calculator | Data types and math operations - splitting the bill and calculating the tip. |
 | [Day 3](./Day_03) | Treasure Island | Control flow logic, nested `if`/`elif`/`else` statements, and modulo operator. |
@@ -42,5 +42,5 @@ Here I keep track of my daily projects and what I've learned.
 | [Day 9](./Day_09_Dictionaries_and_Auction) | Secret Auction | Dictionaries, key-value pairs, nested lists, and console clearing. |
 [Day 10](./Day_10_Calculator) | Python Terminal Calculator | Functions with outputs, the `return` keyword, flag-controlled loops, and active syntax debugging. |
 | [Day 11](./Day_11_Blackjack_Capstone_Project) | Blackjack Capstone | Advanced game logic, dynamic lists (deck management), and probability-based computer decisions. |
----
+-----
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
