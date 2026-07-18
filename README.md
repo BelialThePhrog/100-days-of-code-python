@@ -41,5 +41,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day 8](./Day_08_Caesar_Cipher) | Caesar Cipher | Function parameters, modulo operator, and string manipulation. |
 | [Day 9](./Day_09_Dictionaries_and_Auction) | Secret Auction | Dictionaries, key-value pairs, nested lists, and console clearing. |
 [Day 10](./Day_10_Calculator) | Python Terminal Calculator | Functions with outputs, the `return` keyword, flag-controlled loops, and active syntax debugging. |
+| [Day 11](./Day_11_Blackjack_Capstone_Project) | Blackjack Capstone | Advanced game logic, dynamic lists (deck management), and probability-based computer decisions. |
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
