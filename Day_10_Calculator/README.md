@@ -14,5 +14,9 @@ This directory marks Day 10 of the "100 Days of Code" challenge, focusing on fun
 
 ## How to Run
 To run the scratchpad/practice code:
-```bash
-python practice.py
+
+    python practice.py
+
+To run the main project:
+
+    python project.py
