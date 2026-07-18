@@ -1,25 +1,18 @@
-# Day 10: Functions with Outputs & Practical Debugging
+# Day 10: Functions with Outputs & Calculator Capstone
 
 ## Project Overview
-Day 10 of the "100 Days of Code" challenge focuses on mastering functions with return values. This directory contains the raw development process, documenting both successful implementations and the active debugging of errors encountered during practice.
+This directory marks Day 10 of the "100 Days of Code" challenge, focusing on functions that return values. The core structure is split into an experimental practice sandbox and a final interactive command-line project.
 
-## Learning Journey & Code Progression
-The workflow is captured directly in the Jupyter Notebook (`Day_10_Calc.ipynb`), showcasing incremental progress:
+## Repository Structure
+*   **`practice.py`**: A log of my learning progression, featuring early return statement tests, leap year logical checks, and active syntax debugging.
+*   **`project.py`**: The main capstone application—a continuous terminal-based calculator utilizing modular functions.
 
-1. **Basic Return Values:** Initial experimentation with returning simple expressions from functions.
-2. **String Formatting & Syntax Debugging:** 
-   * *The Challenge:* Encountered a `SyntaxError` while testing conditional checks on user input (`if name or surname ==`).
-   * *The Fix:* Refactored the control flow to properly validate empty inputs using standard logical operators.
-3. **Leap Year Logic:** Implemented nested conditions to evaluate leap years based on calendar rules.
-4. **The Capstone: CLI Calculator:** Built a fully interactive command-line calculator capable of chaining operations on a continuously updating result.
+## Key Concepts Covered
+* **The `return` Keyword:** Passing computational results back to the global scope.
+* **Control Flow Debugging:** Resolving `SyntaxError` traps during input validation.
+* **Flag-Controlled Loops:** Managing infinite `while` states based on user choices.
 
-## Key Concepts Practiced
-* **Functions with Outputs:** Utilizing the `return` keyword to pass data back to the global scope.
-* **Error Analysis:** Actively interpreting Python stack traces (like `SyntaxError`) to fix broken logic during live practice.
-* **While Loops & Flag Variables:** Managing execution states for continuous user interaction.
-
-## How to Run the Notebook
-To see the step-by-step execution, including the standard output and error flags from the practice environment:
+## How to Run
+To run the scratchpad/practice code:
 ```bash
-pip install notebook
-jupyter notebook Day_10_Calc.ipynb
+python practice.py
