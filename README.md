@@ -42,5 +42,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day 9](./Day_09_Dictionaries_and_Auction) | Secret Auction | Dictionaries, key-value pairs, nested lists, and console clearing. |
 | [Day&nbsp;10](./Day_10_Calculator) | Python Terminal Calculator | Functions with outputs, the `return` keyword, flag-controlled loops, and active syntax debugging. |
 | [Day&nbsp;11](./Day_11_Blackjack_Capstone_Project) | Blackjack Capstone | Advanced game logic, dynamic lists (deck management), and probability-based computer decisions. |
+| [Day&nbsp;12](./Day_12_Guess_the_number) | Number Guessing Game | Namespaces, local/global scope, and while-else loop logic. |
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
