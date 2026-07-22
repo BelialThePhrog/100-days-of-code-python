@@ -9,10 +9,17 @@ The underlying backend classes (`coffee_maker.py`, `money_machine.py`, and `menu
 My core task for this project was to read the documentation for these classes, understand their methods, and write the execution logic in `main.py` to tie them all together into a functioning system.
 
 ## Repository Structure
-*   **`main.py`**: My implementation of the main loop and logic, coordinating the interactions between the machine's components.
+*   **`practice.py`**: Initial exercises in Object-Oriented Programming, exploring the `turtle` graphics module and understanding how to instantiate objects, modify attributes, and call methods.
+*   **`main.py`**: My implementation of the main loop and logic for the Coffee Machine, coordinating the interactions between the components.
 *   **`menu.py`**: Contains the `Menu` and `MenuItem` classes (Provided by course).
 *   **`coffee_maker.py`**: Contains the `CoffeeMaker` class handling resource management (Provided by course).
 *   **`money_machine.py`**: Contains the `MoneyMachine` class handling coin processing and profit tracking (Provided by course).
+
+## Key Concepts Covered
+* **Classes and Objects:** Instantiating objects from classes (e.g., `timmy = t.Turtle()`).
+* **Object Attributes & Methods:** Accessing object data (like `my_screen.canvheight`) and executing object functions (like `my_screen.exitonclick()`).
+* **External Packages:** Learning to install and manage third-party Python packages using `pip` (e.g., `lb-pretty-table`).
+* **Modular Code:** Importing custom classes from separate files to keep the main execution logic clean and readable.
 
 ## How to Run
 To boot up the OOP version of the coffee machine, run the following command:
