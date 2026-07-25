@@ -49,5 +49,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;16](./Day_16_Coffee_Machine_OOP) | OOP Coffee Machine | Object-Oriented Programming (OOP), importing classes, and working with external modules. |
 | [Day&nbsp;17](./Day_17_Quiz) | OOP Quiz Game | Object-Oriented Programming, creating custom classes, initializing objects, and managing state across multiple files. |
 | [Day&nbsp;18](./Day_18_Turtle_Graphics) | GUI & Turtle Graphics | Working with the `turtle` module, spatial coordinates, RGB color generation, and the `colorgram` library. | Completed 🟢 |
+| [Day&nbsp;19](./Day_19_Turtle_Racing) | Turtle Racing & Event Listeners | Higher-order functions, event listeners, state management, and multi-object instantiation. | Completed 🟢 |
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
