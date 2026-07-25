@@ -47,5 +47,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;14](./Day_14_Higher_Lower) | Higher Lower Game | Dictionaries, game state loops, and custom bubble sort algorithm for the leaderboard. |
 | [Day&nbsp;15](./Day_15_Coffee_Machine) | Virtual Coffee Machine | Procedural programming, global state management, and a greedy algorithm for calculating coin change. |
 | [Day&nbsp;16](./Day_16_Coffee_Machine_OOP) | OOP Coffee Machine | Object-Oriented Programming (OOP), importing classes, and working with external modules. |
+| [Day&nbsp;17](./Day_17_Quiz) | OOP Quiz Game | Object-Oriented Programming, creating custom classes, initializing objects, and managing state across multiple files. |
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
