@@ -52,5 +52,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;19](./Day_19_Turtle_Racing) | Turtle Racing & Event Listeners | Higher-order functions, event listeners, state management, and multi-object instantiation. | 
 | [Day&nbsp;20](./Day_20_Snake_Part_1) | Classic Snake Game (Part 1) | Object-Oriented GUI programming, class decoupling, and screen animation mapping using `tracer()`. | 
 | [Day&nbsp;21](./Day_21_Snake_Part_2) | Classic Snake Game (Part 2) | Class inheritance, collision detection, list slicing, and final game logic. |
+| [Day&nbsp;22](./Day_22_Pong) | Pong Arcade Game | OOP, basic AI paddle logic, collision detection, and vector-based movement mechanics. |
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
