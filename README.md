@@ -54,6 +54,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;21](./Day_21_Snake_Part_2) | Classic Snake Game (Part 2) | Class inheritance, collision detection, list slicing, and final game logic. |
 | [Day&nbsp;22](./Day_22_Pong) | Pong Arcade Game | OOP, basic AI paddle logic, collision detection, and vector-based movement mechanics. |
 | [Day&nbsp;23](./Day_23_Frogger) | Turtle Crossing (Frogger Clone) | Game loop mechanics, RGB color randomization, and bidirectional entity spawning. |
-| [Day&nbsp;24](./Day_24_File_I/O) | Snake High Score & File I/O | Reading/Writing local files, persistent state management, and Mail Merge automation. | 
+| [Day&nbsp;24](./Day_24_File_Management) | Snake High Score & File I/O | Reading/Writing local files, persistent state management, and Mail Merge automation. | 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
