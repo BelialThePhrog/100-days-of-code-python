@@ -13,7 +13,7 @@ My primary role in this project was that of a **learner and mathematical archite
 *   **Finite Element Method (FEM / MES):** Utilizing shape functions and natural coordinate systems ($\xi, \eta, \zeta$) to map local deformations to a global coordinate space.
 *   **Jacobian Matrix:** Computing the transformation matrix between the natural and global coordinate systems.
 *   **Cauchy Strain Tensor:** Calculating the symmetric strain tensor using the displacement gradient: 
-    $$ \epsilon = \frac{1}{2}(\nabla u + (\nabla u)^T) $$
+    $ \epsilon = \frac{1}{2}(\nabla u + (\nabla u)^T) $
 *   **Biomechanics:** Observing real-world physical reactions in artificial skin, such as how an extension in the X-axis by 15% results in a proportional thinning in the Y and Z axes by 4%.
 
 ## How to Run
