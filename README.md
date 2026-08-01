@@ -56,6 +56,6 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;23](./Day_23_Frogger) | Turtle Crossing (Frogger Clone) | Game loop mechanics, RGB color randomization, and bidirectional entity spawning. |
 | [Day&nbsp;24](./Day_24_File_Management) | Snake High Score & File I/O | Reading/Writing local files, persistent state management, and Mail Merge automation. | 
 | [Mini-Project: Artificial Skin Mechanics](./Day_24.5Mini_Project_Skin_Tensor) | Biomechanical modeling of artificial skin deformation computing 2D/3D Cauchy strain tensors using FEM principles. | `Mathematics`, `Biomechanics`, `NumPy`, `AI-Assisted` |
-| [Day&nbsp;25](./Day_25_States_Game) | Exploratory Data Analysis (EDA) with Pandas (Squirrel Census) and an interactive geographic game using Turtle. | `Pandas`, `Data Analysis`, `Turtle GUI` |
+| [Day&nbsp;25](./Day_25_States_Game) |  Pandas & U.S. States Game | Exploratory Data Analysis (EDA) with Pandas (Squirrel Census) and an interactive geographic game using Turtle.|
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
