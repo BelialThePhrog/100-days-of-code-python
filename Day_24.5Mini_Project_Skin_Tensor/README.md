@@ -7,7 +7,7 @@ By defining custom displacement vectors, the model effectively demonstrates fund
 ## 🤖 AI-Assisted Learning Disclaimer
 **Transparency Note:** The Python code (`numpy` matrix operations and `matplotlib` 3D visualizations) in this repository was generated using AI tools. 
 
-My primary role in this project was that of a **learner and mathematical architect**. I utilized AI as an interactive tutor to translate complex mathematical formulas (like the Jacobian matrix inversion and shape function derivatives) into code[cite: 24]. This allowed me to focus my energy strictly on understanding the underlying physics, tensor calculus, and the principles of the Finite Element Method (FEM), rather than typing boilerplate syntax.
+My primary role in this project was that of a **learner and mathematical architect**. I utilized AI as an interactive tutor to translate complex mathematical formulas (like the Jacobian matrix inversion and shape function derivatives) into code. This allowed me to focus my energy strictly on understanding the underlying physics, tensor calculus, and the principles of the Finite Element Method (FEM), rather than typing boilerplate syntax.
 
 ## 🧮 Mathematical Concepts Explored
 *   **Finite Element Method (FEM / MES):** Utilizing shape functions and natural coordinate systems ($\xi, \eta, \zeta$) to map local deformations to a global coordinate space.
