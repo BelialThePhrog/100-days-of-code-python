@@ -34,13 +34,6 @@ Ensure you have the required libraries installed:
 pip install numpy matplotlib
 ```
 
-### Installation
-Clone the repository to your local machine:
-```bash
-git clone [https://github.com/BelialThePhrog/3D-Transformation-Engine.git](https://github.com/BelialThePhrog/3D-Transformation-Engine.git)
-cd 3D-Transformation-Engine
-```
-
 ### Execution
 Run the script directly from the root directory:
 ```bash
