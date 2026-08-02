@@ -32,3 +32,31 @@ The final position of the entire point cloud matrix ($N \times 4$) is calculated
 Ensure you have the required libraries installed:
 ```bash
 pip install numpy matplotlib
+```
+
+### Installation
+Clone the repository to your local machine:
+```bash
+git clone [https://github.com/BelialThePhrog/3D-Transformation-Engine.git](https://github.com/BelialThePhrog/3D-Transformation-Engine.git)
+cd 3D-Transformation-Engine
+```
+
+### Execution
+Run the script directly from the root directory:
+```bash
+python main.py
+```
+
+### Understanding the Inputs
+During execution, the CLI will prompt you for specific transformation parameters:
+* **`Degrees` (Rotation):** The angle (in degrees) by which the point cloud will be rotated around the Z-axis. Positive values result in counter-clockwise rotation.
+* **`tx` (Translation X):** The distance to shift the entire dataset along the X-axis.
+* **`ty` (Translation Y):** The distance to shift the dataset along the Y-axis.
+* **`tz` (Translation Z):** The distance to shift the dataset along the Z-axis.
+
+## 📊 Expected Output
+1. **Terminal Log:** The script will output the preview of the newly transformed matrix alongside the exact time it took to perform the operation on 1,000,000 points.
+2. **Interactive 3D Plot:** A Matplotlib window will open displaying a side-by-side comparison of the point cloud *before* and *after* the transformation. You can rotate and zoom the plots interactively to inspect the geometric changes.
+
+## 💡 Engineering Takeaway
+This project proves that understanding computer memory allocation and utilizing continuous memory blocks (NumPy arrays) is mandatory in data analytics. Attempting to process $N=10^9$ or even $N=10^6$ elements using standard Python object lists results in extreme memory swapping and performance death, whereas vectorized matrix operations resolve the same problem almost instantaneously.
