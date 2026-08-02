@@ -1,16 +1,24 @@
 # Day 26: NATO Phonetic Alphabet & Comprehensions
 
-## 📖 Project Overview
-This directory contains two scripts focusing on writing clean, pythonic, and optimized code using **List and Dictionary Comprehensions**. 
-1. **`nato_alphabet.py`**: The main project. A script that takes a user's name as input and translates it into the NATO Phonetic Alphabet. It parses a CSV file using `pandas` and optimizes lookup times by converting the DataFrame into a Python dictionary.
-2. **`comprehensions_practice.py`**: A collection of functional snippets demonstrating advanced data manipulation (filtering lists, calculating letter scores, and temperature conversions).
+## Project Overview
 
-## 🛠️ Skills Demonstrated
-*   **List Comprehensions:** Creating dynamic lists with inline `for` loops and `if` conditions.
-*   **Dictionary Comprehensions:** Generating and transforming dictionaries programmatically.
-*   **Pandas Iteration (`iterrows`):** Optimizing data lookups by converting a DataFrame into a hash map (dictionary) for O(1) time complexity.
-*   **Exception Handling:** Using basic `try/except` blocks to handle missing files or invalid user inputs gracefully.
+A practical console application that translates any given word or name into the NATO Phonetic Alphabet. Built using Python's `pandas` library, the script efficiently parses a CSV dataset and maps user input to standardized phonetic codes, making it a perfect exercise in data iteration and error handling.
 
-## 🚀 How to Run
-*   **NATO Translator:** Run `python nato_alphabet.py`. Ensure `text1.csv` is in the same directory.
-*   **Practice Snippets:** Run `python comprehensions_practice.py` to see the output of various data transformations.
+## Skills Demonstrated
+
+* **Dictionary Comprehensions & Pandas Iteration:** Optimizing data lookups by iterating over a DataFrame with `iterrows()` to generate a hash map (Python dictionary), drastically improving lookup speed to O(1) time complexity.
+* **List Comprehensions:** Dynamically generating lists from user string inputs to create the final phonetic translation array in a single, readable line of code.
+* **Exception Handling & Data Validation:** Implementing `try/except` blocks to catch `KeyError` exceptions when a user inputs non-alphabet characters (like numbers or spaces), and `FileNotFoundError` to gracefully handle missing dataset files.
+
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
+My core focus was on optimizing the DataFrame iteration process using dictionary comprehensions instead of slow row-by-row filtering, implementing robust exception handling for edge cases, and separating learning snippets into a standalone practice module.
+
+## How to Run
+
+Ensure all files (`main.py`, `comprehensions_practice.py`, `nato_phonetic_alphabet.csv`) are in the same directory and execute:
+
+```bash
+python main.py
