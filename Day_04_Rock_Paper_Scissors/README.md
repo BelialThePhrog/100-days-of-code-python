@@ -17,6 +17,10 @@ Welcome to Day 4 of my 100 Days of Code challenge! Today I explored the `random`
 ## The Project: Rock, Paper, Scissors
 A classic game of Rock, Paper, Scissors against the computer, featuring cool ASCII art!
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run the main project
 ```bash
 python main.py
