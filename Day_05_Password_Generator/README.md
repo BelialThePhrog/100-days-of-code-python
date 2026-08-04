@@ -17,6 +17,10 @@ Welcome to Day 5 of my 100 Days of Code challenge! Today I learned about iterati
 ## The Project: PyPassword Generator
 A program that asks the user for the desired length of letters, symbols, and numbers, and generates a completely randomized, highly secure password.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run the main project
 ```bash
 python main.py
