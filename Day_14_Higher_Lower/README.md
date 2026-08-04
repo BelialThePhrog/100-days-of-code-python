@@ -14,6 +14,10 @@ This project marks the conclusion of the Beginner Section! It is a terminal-base
 
 *Note: The console clearing feature uses `IPython.display`, which is specifically optimized for running within Jupyter Notebook environments.*
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To play the Higher Lower game, run the following command (best experienced in a Jupyter Notebook environment):
 
