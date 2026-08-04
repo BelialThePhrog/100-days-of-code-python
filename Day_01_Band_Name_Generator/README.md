@@ -11,6 +11,10 @@ Hi! My name is Kacper, and this is my first day of the 100 Days of Code challeng
 ## The Project
 A simple interactive command-line program that asks the user for the city they grew up in and their pet's name to generate a cool band name!
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run
 ```bash
 python main.py
