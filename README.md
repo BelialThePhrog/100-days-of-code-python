@@ -57,7 +57,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;24](./Day_24_File_Management) | Snake High Score & File I/O | Reading/Writing local files, persistent state management, and Mail Merge automation. | 
 | [Day&nbsp;25](./Day_25_States_Game) |  Pandas & U.S. States Game | Exploratory Data Analysis (EDA) with Pandas (Squirrel Census) and an interactive geographic game using Turtle.|
 | [Day&nbsp;26](./Day_26_NATO_Alphabet) | NATO Phonetic Alphabet | Python List & Dictionary Comprehensions, Pandas data parsing, and phonetic code mapping. |
-| Day 27 | Graphical User Interfaces (GUI) with Tkinter | [Mile to Km Converter](./Day_27_Tkinter_GUI) |
+| [Day&nbsp;27](./Day_27_MileToKm) | Mile to Km Converter | Graphical User Interfaces (GUI) with Tkinter, event-driven programming, and grid layout management. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
