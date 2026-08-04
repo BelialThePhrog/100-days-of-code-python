@@ -11,6 +11,10 @@ Welcome to Day 9 of my 100 Days of Code challenge! Today, I explored Python Dict
 ## The Project: Secret Auction (FPSBDA)
 A command-line program that simulates a First-Price Sealed-Bid Auction. It asks each user for their name and bid, clears the screen so the next user can't see it, and then calculates the highest bidder at the end.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run the main project
 ```text
 python main.py
