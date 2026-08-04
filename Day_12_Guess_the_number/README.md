@@ -12,6 +12,10 @@ Day 12 of the "100 Days of Code" challenge dives into the concept of Namespaces 
 * **Algorithm Building:** Developing a custom prime number checker using `for` loops and modulo operators.
 * **Game Logic:** Using a `while` loop that resolves with an `else` statement to handle the win/loss condition smoothly.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To run the scope and prime checking practice:
 
