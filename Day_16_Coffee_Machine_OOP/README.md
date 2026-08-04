@@ -21,6 +21,10 @@ My core task for this project was to read the documentation for these classes, u
 * **External Packages:** Learning to install and manage third-party Python packages using `pip` (e.g., `lb-pretty-table`).
 * **Modular Code:** Importing custom classes from separate files to keep the main execution logic clean and readable.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To boot up the OOP version of the coffee machine, run the following command:
 
