@@ -11,6 +11,10 @@ For this milestone, I built a fully functional, text-based Blackjack game. Inste
 * **Computer AI:** The dealer's decisions are not hardcoded but rely on a probability matrix using the `random` module to simulate realistic gambling risks.
 * **List Manipulation:** Extensive use of list operations (`.append()`, `.remove()`) to track hands and active decks.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To start the Blackjack game, run the following command in your terminal:
 
