@@ -12,6 +12,10 @@ Welcome to Day 7 of my 100 Days of Code challenge! Today, I combined everything 
 ## The Project: Hangman
 A classic Hangman game! The computer randomly chooses a word from a predefined list, and the player has 6 lives to guess the word, one letter at a time. The game updates the ASCII art of the hangman for every wrong guess.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run the main project
 ```bash
 python main.py
