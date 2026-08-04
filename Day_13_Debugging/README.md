@@ -12,6 +12,10 @@ Day 13 is entirely focused on one of the most crucial skills in programming: deb
 * **Logical Errors:** Fixing incorrect mathematical constants (e.g., using `4000` instead of `400` in leap year logic) and control flow (using `elif` instead of consecutive `if` statements to prevent multiple unintended outputs).
 * **Code Tracing:** Mentally running through code line-by-line to find unexpected behavior, like in the classic FizzBuzz algorithm.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To review the debugging exercises:
 
