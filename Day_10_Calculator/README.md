@@ -12,6 +12,10 @@ This directory marks Day 10 of the "100 Days of Code" challenge, focusing on fun
 * **Control Flow Debugging:** Resolving `SyntaxError` traps during input validation.
 * **Flag-Controlled Loops:** Managing infinite `while` states based on user choices.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To run the scratchpad/practice code:
 
