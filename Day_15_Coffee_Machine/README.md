@@ -12,6 +12,10 @@ This project simulates the internal software of a digital coffee machine. It is 
 * **Data Structures:** Using lists of dictionaries to store the recipe requirements and costs for each type of coffee.
 * **Continuous Execution:** Utilizing `while` loops to keep the machine running until a hidden maintenance command (`off`) is issued.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To boot up the coffee machine, run the following command in your terminal:
 
