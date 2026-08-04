@@ -11,6 +11,10 @@ Welcome to Day 8 of my 100 Days of Code challenge! Today was all about functions
 ## The Project: Caesar Cipher
 A classic encryption and decryption algorithm. The user can input a message and a shift number. The program shifts each letter by the given amount through the alphabet, wrapping around from 'z' back to 'a' if necessary.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run the main project
 ```bash
 python main.py
