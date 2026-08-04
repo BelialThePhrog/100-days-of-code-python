@@ -14,6 +14,10 @@ My core objective for this project was to build the OOP architecture from scratc
 *   **`question_model.py`**: Contains the `Question` class, serving as a blueprint for creating individual question objects.
 *   **`data.py`**: Contains the raw list of trivia dictionaries (Provided by course).
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 To start the quiz, execute the following command in your terminal:
 
