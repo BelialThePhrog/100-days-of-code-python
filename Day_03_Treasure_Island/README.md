@@ -17,6 +17,10 @@ Welcome to Day 3 of my 100 Days of Code challenge! Today was all about making de
 ## The Project: Treasure Island
 A text-based choose-your-own-adventure game. You must make the correct choices at each step to find the hidden treasure and avoid dying!
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run the main project
 ```bash
 python main.py
