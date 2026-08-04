@@ -57,7 +57,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;24](./Day_24_File_Management) | Snake High Score & File I/O | Reading/Writing local files, persistent state management, and Mail Merge automation. | 
 | [Day&nbsp;25](./Day_25_States_Game) |  Pandas & U.S. States Game | Exploratory Data Analysis (EDA) with Pandas (Squirrel Census) and an interactive geographic game using Turtle.|
 | [Day&nbsp;26](./Day_26_NATO_Alphabet) | NATO Phonetic Alphabet | Python List & Dictionary Comprehensions, Pandas data parsing, and phonetic code mapping. |
-| [Mini-Project: Artificial Skin Mechanics](./Day_24.5Mini_Project_Skin_Tensor) | Biomechanical modeling of artificial skin deformation computing 2D/3D Cauchy strain tensors using FEM principles. | `Mathematics`, `Biomechanics`, `NumPy`, `AI-Assisted` |
-| [Project 1](./Day_25.5_3D_Transformation_Generator) | 3D Matrix Transformations | Linear algebra operations: generating 1M+ element vectors, applying 3D rotation/translation matrices, and 3D data visualization. |
+| Day 27 | Graphical User Interfaces (GUI) with Tkinter | [Mile to Km Converter](./Day_27_Tkinter_GUI) |
+
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
