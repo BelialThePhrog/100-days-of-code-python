@@ -12,6 +12,10 @@ Welcome to Day 2 of my 100 Days of Code challenge!
 ## The Project
 A Tip Calculator that helps you figure out exactly how much each person needs to pay when splitting a bill, including a custom tip percentage.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to run
 ```bash
 python main.py
