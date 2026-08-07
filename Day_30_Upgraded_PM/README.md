@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-An advanced iteration of the Local Password Manager. This version upgrades the flat-file storage system to a structured JSON database, enabling fast, dictionary-based credential searches[cite: 16, 18]. Additionally, it introduces robust error handling to prevent application crashes during file I/O operations[cite: 16].
+An advanced iteration of the Local Password Manager. This version upgrades the flat-file storage system to a structured JSON database, enabling fast, dictionary-based credential searches. Additionally, it introduces robust error handling to prevent application crashes during file I/O operations.
 
 ## Skills Demonstrated
 
-* **JSON Data Handling:** Transitioning from plain text to JSON (`json.dump`, `json.load`) for structured, hierarchical data storage and seamless Python dictionary integration[cite: 16, 18].
-* **Advanced Exception Handling:** Implementing full `try / except / else / finally` blocks to elegantly handle edge cases, such as a missing database file (`FileNotFoundError`), ensuring uninterrupted UX[cite: 16].
-* **Search Algorithms:** Engineering a search feature that parses the JSON dictionary to instantly retrieve and display stored emails and passwords for a requested website via UI pop-ups (`messagebox`)[cite: 16].
-* **UI Resilience:** Clearing entry fields dynamically and verifying user inputs (e.g., catching empty strings) before allowing database updates[cite: 16].
+* **JSON Data Handling:** Transitioning from plain text to JSON (`json.dump`, `json.load`) for structured, hierarchical data storage and seamless Python dictionary integration.
+* **Advanced Exception Handling:** Implementing full `try / except / else / finally` blocks to elegantly handle edge cases, such as a missing database file (`FileNotFoundError`), ensuring uninterrupted UX.
+* **Search Algorithms:** Engineering a search feature that parses the JSON dictionary to instantly retrieve and display stored emails and passwords for a requested website via UI pop-ups (`messagebox`).
+* **UI Resilience:** Clearing entry fields dynamically and verifying user inputs (e.g., catching empty strings) before allowing database updates.
 
 ## Disclaimer & Credits
 
