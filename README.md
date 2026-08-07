@@ -60,6 +60,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;27](./Day_27_MileToKm) | Mile to Km Converter | Graphical User Interfaces (GUI) with Tkinter, event-driven programming, and grid layout management. |
 | [Day&nbsp;28](./Day_28_Pomodoro) | Dynamic Pomodoro Timer | GUI application with dynamic time allocation logic, multiple windows (`Toplevel`), and event-driven countdowns. |
 | [Day&nbsp;29](./Day_29_Password_Manager) | Local Password Manager | Independent implementation of a GUI app featuring OS clipboard integration, flat-file DB management, and strong random generation. |
+| [Day&nbsp;30](./Day_30_Upgraded_PM) | Password Manager Pro | Data persistence with JSON, dynamic UI searches, and handling File I/O exceptions. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
