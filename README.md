@@ -4,7 +4,7 @@ Welcome to my repository! I'm documenting my daily progress and projects from th
 
 ## 🛠 Technologies
 * **Language:** Python 3.x 
-* **Key Libraries:** Random
+* **Key Libraries:** Tkinter, Pandas, Turtle, json, math, time, random, colorgram
 * **Tools:** Jupyter notebook
 
 ## 📂 Repository Structure
