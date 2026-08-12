@@ -63,6 +63,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;30](./Day_30_Upgraded_PM) | Password Manager Pro | Data persistence with JSON, dynamic UI searches, and handling File I/O exceptions. |
 | [Day&nbsp;31](./Day_31_Flashcards) | Flashcard Learning App | GUI Application combining Tkinter Canvas, time-delayed functions, Pandas CSV manipulation, and state tracking. |
 | [Day&nbsp;32](./Day_32_Email_Automation) | SMTP Automation Practice | Backend email automation, TLS connection security, and temporal logic via the `datetime` module. *(Project omitted for security)* |
+| [Day&nbsp;33](./_Day_33_API) | REST APIs & ISS Tracker | HTTP Requests, JSON Parsing, and background task scheduling with `apscheduler`. *(Email auth omitted for security)* |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
