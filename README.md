@@ -66,6 +66,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;33](./_Day_33_API) | REST APIs & ISS Tracker | HTTP Requests, JSON Parsing, and background task scheduling with `apscheduler`. *(Email auth omitted for security)* |
 | [Day&nbsp;34](./Day_34_Quizz_API) | Quizzler API App | Advanced OOP architecture, Type Hinting, API integration, and asynchronous Tkinter UI updates. |
 | [Day&nbsp;35](./Day_35_Rain_Alert) | Rain Alert Application | API Authentication, passing HTTP parameters, and integrating JSON responses with SMTP. |
+| [Day&nbsp;36](./Day_36_Stock_Alert) | Stock Trading Alert App | API Integration, JSON data processing, and securing SMTP authentication with Environment Variables. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
