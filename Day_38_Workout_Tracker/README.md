@@ -11,7 +11,13 @@ An automated workout logging application that leverages Natural Language Process
 * **Natural Language Processing (NLP) Integration:** Connected to an NLP-powered API to translate conversational inputs (e.g., "jog for 2 hours, swim for 3 hours") into structured numerical data (duration, calories, METs).
 * **Bearer Token Authentication:** Implemented advanced HTTP Header authentication using a Bearer Token to securely authorize POST requests to the database API.
 * **Third-Party Database Integration (Sheety):** Executed HTTP POST requests to automatically append new rows to a Google Spreadsheet, formatting datetime objects to match the required database schema.
-* **Rate Limiting Handling:** Incorporated `time.sleep(3)` to artificially delay sequential API calls within loops, preventing server rejections due to rate-limit quotas[cite: 20].
+* **Rate Limiting Handling:** Incorporated `time.sleep(3)` to artificially delay sequential API calls within loops, preventing server rejections due to rate-limit quotas.
+
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
+My core focus for this module was independently configuring the HTTP Header authentication (Bearer Tokens) and mapping the parsed JSON data from the NLP engine to the specific schema required by the Google Sheets API.
 
 ## How to Run
 
