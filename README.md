@@ -68,6 +68,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;35](./Day_35_Rain_Alert) | Rain Alert Application | API Authentication, passing HTTP parameters, and integrating JSON responses with SMTP. |
 | [Day&nbsp;36](./Day_36_Stock_Alert) | Stock Trading Alert App | API Integration, JSON data processing, and securing SMTP authentication with Environment Variables. |
 | [Day&nbsp;37](./Day_37_Habit_Tracker) | Pixela Habit Tracker | Interacting with APIs using POST, PUT, DELETE methods, Header authentication, and Datetime formatting. |
+| [Day&nbsp;38](./Day_38_Workout_Tracker) | NLP Workout Tracker | Natural Language Processing via API, Bearer Token authentication, and Google Sheets integration. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
