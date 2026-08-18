@@ -15,8 +15,6 @@ An automated financial monitoring script that tracks daily stock price fluctuati
 
 This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
 
-My core focus for this module was independently configuring the HTTP Header authentication (Bearer Tokens) and mapping the parsed JSON data from the NLP engine to the specific schema required by the Google Sheets API.
-
 ## How to Run
 
 Ensure the file (`stock_alert.py`) is in the directory. You must configure your local environment variables (`GMAIL_APP_PASSWORD`) and supply a valid Alpha Vantage API key.
