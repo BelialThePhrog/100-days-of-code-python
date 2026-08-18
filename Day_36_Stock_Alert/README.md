@@ -11,6 +11,12 @@ An automated financial monitoring script that tracks daily stock price fluctuati
 * **Complex Data Extraction:** Programmatically accessed dynamically changing JSON keys (dates) by casting dictionary keys into a list (`list(time_series.keys())`) to consistently retrieve the most recent trading days[cite: 18].
 * **Context Management:** Used the `with smtplib.SMTP(...) as connection:` context manager to ensure network connections are safely and automatically closed after execution, preventing resource leaks[cite: 18].
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
+My core focus for this module was independently configuring the HTTP Header authentication (Bearer Tokens) and mapping the parsed JSON data from the NLP engine to the specific schema required by the Google Sheets API.
+
 ## How to Run
 
 Ensure the file (`stock_alert.py`) is in the directory. You must configure your local environment variables (`GMAIL_APP_PASSWORD`) and supply a valid Alpha Vantage API key.
