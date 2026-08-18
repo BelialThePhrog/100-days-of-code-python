@@ -13,6 +13,10 @@ A console-based habit tracking application that integrates with the Pixela API. 
 * **Datetime Formatting:** Leveraging the `datetime` module and `.strftime("%Y%m%d")` to format user-inputted dates into the exact string structure required by the Pixela API.
 * **Interactive CLI Flow:** Building a dynamic console menu that routes the user's choice to the appropriate API endpoint and operational logic.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 
 Ensure the file (`habit_tracker.py`) is in the directory. You must supply your own Pixela Username, Token, and Graph ID.
