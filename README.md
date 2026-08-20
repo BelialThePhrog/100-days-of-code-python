@@ -79,6 +79,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;37](./Day_37_Habit_Tracker) | Pixela Habit Tracker | Interacting with APIs using POST, PUT, DELETE methods, Header authentication, and Datetime formatting. |
 | [Day&nbsp;38](./Day_38_Workout_Tracker) | NLP Workout Tracker | Natural Language Processing via API, Bearer Token authentication, and Google Sheets integration. |
 | [Day&nbsp;39 + 40](./Day_39_40_Capstone_Warframe_Market) | Warframe Market Alert Club | Independent OOP architecture, multi-API integration (Warframe Market, Sheety), and HTML email automation. |
+| [Day&nbsp;41](./Day_41_HTML_Basics) | HTML Movie Ranking | Web Development foundation, semantic HTML5 structuring, and heading hierarchy. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
