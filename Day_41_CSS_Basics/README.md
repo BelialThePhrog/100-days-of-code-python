@@ -1,4 +1,4 @@
-# Day 41: CSS Colors & Selectors
+# Day 43: CSS Colors & Selectors
 
 ## Project Overview
 
