@@ -1,4 +1,4 @@
-# Day 43: HTML Birthday Invite Project
+# Day 42: HTML Birthday Invite Project
 
 ## Project Overview
 
