@@ -11,6 +11,10 @@ A practical exercise in CSS positioning and typography. This project builds a cl
 * **Text Transformation:** Utilizing the `text-transform: uppercase;` property in CSS to visually alter text rendering without modifying the underlying HTML structure.
 * **Box Model Styling:** Applying borders and background colors to create high-contrast, visually distinct layout segments.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 
 No backend server is required. Ensure `index.html`, `style.css`, and the `/assets/images/` directory (containing your image) are in the same folder structure. Open `index.html` in any modern web browser.
