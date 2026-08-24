@@ -10,6 +10,10 @@ This project introduces Cascading Style Sheets (CSS) to separate content (HTML) 
 * **CSS Selectors (IDs & Classes):** Utilizing ID selectors (`#red`, `#blue`) to apply unique color styles to specific elements, and Class selectors (`.color-title`) to apply uniform typography rules across multiple elements.
 * **Image Sizing & Float:** Manipulating the `<img>` tags via CSS to standardize their width and height, and applying the `float` property alongside `object-fit` for consistent layout rendering.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 
 No backend server is required. Ensure `index.html`, `style.css`, and the `/assets/images/` directory are in the same folder structure. Open `index.html` in any modern web browser to view the styled page.
