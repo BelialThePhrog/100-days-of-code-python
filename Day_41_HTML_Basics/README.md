@@ -10,6 +10,10 @@ This project marks the transition into Web Development. It is a foundational HTM
 * **Content Formatting:** Applying paragraph tags (`<p>`) for standard text and horizontal rules (`<hr />`) for thematic breaks and visual separation.
 * **Web Foundation:** Establishing the core markup layer that will later be styled with CSS and manipulated via DOM scripting.
 
+## Disclaimer & Credits
+
+This project architecture was guided by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Angela Yu.
+
 ## How to Run
 
 No backend server is required for this static file. Simply open the `index.html` file in any modern web browser to view the rendered page.
