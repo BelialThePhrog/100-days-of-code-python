@@ -80,8 +80,9 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;38](./Day_38_Workout_Tracker) | NLP Workout Tracker | Natural Language Processing via API, Bearer Token authentication, and Google Sheets integration. |
 | [Day&nbsp;39 + 40](./Day_39_40_Capstone_Warframe_Market) | Warframe Market Alert Club | Independent OOP architecture, multi-API integration (Warframe Market, Sheety), and HTML email automation. |
 | [Day&nbsp;41](./Day_41_HTML_Basics) | HTML Movie Ranking | Web Development foundation, semantic HTML5 structuring, and heading hierarchy. |
-| [Day&nbsp;42](./_Day_42_Birthday_Invite) | HTML Birthday Invite | HTML media embedding (`<img>`), unordered lists (`<ul>`), and hyperlinks (`<a>`). |
-| [Day&nbsp;43](./_Day_43_CSS_Basics) | Spanish Vocabulary | Web Design basics: External CSS stylesheets, Class/ID selectors, and image dimensions. |
+| [Day&nbsp;42](./Day_42_Birthday_Invite) | HTML Birthday Invite | HTML media embedding (`<img>`), unordered lists (`<ul>`), and hyperlinks (`<a>`). |
+| [Day&nbsp;43](./Day_43_CSS_Basics) | Spanish Vocabulary | Web Design basics: External CSS stylesheets, Class/ID selectors, and image dimensions. |
+| [Day&nbsp;44](./Day_44_Motivation_Meme) | Motivation Meme | CSS Positioning, Google Fonts integration, and block element centering. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
