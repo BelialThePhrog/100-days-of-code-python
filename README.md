@@ -84,6 +84,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;43](./Day_43_CSS_Basics) | Spanish Vocabulary | Web Design basics: External CSS stylesheets, Class/ID selectors, and image dimensions. |
 | [Day&nbsp;44](./Day_44_Motivation_Meme) | Motivation Meme | CSS Positioning, Google Fonts integration, and block element centering. |
 | [Day&nbsp;45](./Day_45_Web_Scraping) | Empire Top 100 Movies | HTML parsing, DOM traversal, and data extraction using `BeautifulSoup` and `requests`. |
+| [Day&nbsp;46](./Day_46_YT_Music_Time_Machine) | YT Music Time Machine | Web Scraping (BeautifulSoup) mapped to API automation (`ytmusicapi`). *Custom engineered for YouTube Music.* |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
