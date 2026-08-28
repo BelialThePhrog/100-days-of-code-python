@@ -6,10 +6,11 @@ An automated browser bot designed to play the web-based game "Cookie Clicker" us
 
 ## Skills Demonstrated
 
-* **Browser Automation:** Instantiating and controlling a live Chrome browser session using Python.
+* **Browser Automation:** Instantiating and controlling a live Chrome browser session using Python and Selenium WebDriver.
 * **Bot Detection Evasion:** Utilizing the `undetected_chromedriver` package to bypass standard browser fingerprinting and anti-bot protections.
-* **DOM Element Interaction:** Locating HTML elements using `By.ID` for the main cookie and `By.CSS_SELECTOR` (`.product.enabled`) to identify dynamically changing upgrade buttons.
-* **Time Management & Loop Control:** Implementing a `time.time()` check to enforce a strict 600-second (10-minute) execution limit while batching 100 clicks per upgrade check cycle.
+* **DOM Element Extraction:** Scraping structured dictionary data (e.g., event dates and names from Python.org) using CSS selectors.
+* **Advanced Interactions (ActionChains):** Programmatically controlling keyboard strokes (`Keys.TAB`, `Keys.ENTER`) to navigate and fill web forms without relying on mouse clicks.
+* **Time Management & Loop Control:** Implementing a `time.time()` check to enforce a strict 600-second (10-minute) execution limit while batching 100 clicks per upgrade check cycle in the Cookie Clicker bot.
 
 ## Disclaimer & Credits
 
