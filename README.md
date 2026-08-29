@@ -87,6 +87,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;46](./Day_46_YT_Music_Time_Machine) | YT Music Time Machine | Web Scraping (BeautifulSoup) mapped to API automation (`ytmusicapi`). *Custom engineered for YouTube Music.* |
 | [Day&nbsp;47](./Day_47_Amazon_Tracker) | Amazon Price Tracker | Advanced Web Scraping, HTTP Headers manipulation, and SMTP email alerts. |
 | [Day&nbsp;48](./Day_48_Cookie_Clicker_Bot) | Selenium Cookie Clicker | Browser automation, DOM interaction (`By.ID`, `By.CSS_SELECTOR`), and time-based loop logic. |
+| [Day&nbsp;49](./Day_49_Job_Scraper) | Pracuj.pl Job Automator | Explicit waits via `selenium.webdriver.support.ui`, dynamic URL encoding, and fallback logic for popups. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
