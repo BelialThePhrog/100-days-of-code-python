@@ -14,7 +14,7 @@ An automated web scraping script designed to navigate the Polish job portal Prac
 
 The foundation for web scraping and browser automation was inspired by the **"100 Days of Code™: The Complete Python Pro Bootcamp"** by Dr. Angela Yu. 
 
-**Custom Upgrades & AI Collaboration:** I heavily customized this module to target a local job board. I explicitly acknowledge utilizing AI as an engineering partner to architect the robust web scraping logic—specifically mastering the `selenium.webdriver.support.ui` module to handle asynchronous page rendering and dynamic cookie popups without causing script-breaking timeouts.
+**Custom Upgrades & AI Collaboration:** I heavily customized this module to target a local job board. I explicitly acknowledge utilizing AI as an engineering partner to architect the robust web scraping logic-specifically mastering the `selenium.webdriver.support.ui` module to handle asynchronous page rendering and dynamic cookie popups without causing script-breaking timeouts.
 
 ## How to Run
 
