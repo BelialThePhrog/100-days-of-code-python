@@ -9,7 +9,7 @@ The foundational concepts and daily project prompts in this repository are inspi
 However, this repository is not a collection of copied course material. My development workflow follows a strict, independent engineering approach:
 
 1. **Independent Implementation:** I design the architecture and write the core logic for the daily challenges entirely on my own, relying on official documentation and problem-solving skills.
-2. **Code Review & Optimization:** I treat the instructor's solutions as a code review—comparing paradigms, identifying edge cases, and adopting best practices.
+2. **Code Review & Optimization:** I treat the instructor's solutions as a code review-comparing paradigms, identifying edge cases, and adopting best practices.
 
 ## 🛠 Technologies
 * **Language:** Python 3.x 
