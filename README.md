@@ -88,6 +88,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;47](./Day_47_Amazon_Tracker) | Amazon Price Tracker | Advanced Web Scraping, HTTP Headers manipulation, and SMTP email alerts. |
 | [Day&nbsp;48](./Day_48_Cookie_Clicker_Bot) | Selenium Cookie Clicker | Browser automation, DOM interaction (`By.ID`, `By.CSS_SELECTOR`), and time-based loop logic. |
 | [Day&nbsp;49](./Day_49_Job_Scraper) | Pracuj.pl Job Automator | Explicit waits via `selenium.webdriver.support.ui`, dynamic URL encoding, and fallback logic for popups. |
+| [Day&nbsp;50](./_Day_50_Arxiv_Fetcher) | arXiv Paper Fetcher | XML API parsing with `BeautifulSoup`, custom CLI menus, and `webbrowser` integration. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
