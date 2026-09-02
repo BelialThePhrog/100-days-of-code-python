@@ -90,7 +90,8 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;49](./Day_49_Job_Scraper) | Pracuj.pl Job Automator | Explicit waits via `selenium.webdriver.support.ui`, dynamic URL encoding, and fallback logic for popups. |
 | [Day&nbsp;50](./Day_50_Arxiv_Fetcher) | arXiv Paper Fetcher | XML API parsing with `BeautifulSoup`, custom CLI menus, and `webbrowser` integration. |
 | [Day&nbsp;51](./Day_51_ISP_Complaint_Bot) | ISP Complaint Bot | Selenium dynamic data extraction, execution delays (`time.sleep`), and SMTP alerts. |
-| [Day 52](./Day_52_YT_Auto_Liker) | YouTube Auto-Liker | AI-assisted utility, JavaScript DOM injection (`execute_script`), and ARIA state verification. |
+| [Day&nbsp;52](./Day_52_YT_Auto_Liker) | YouTube Auto-Liker | AI-assisted utility, JavaScript DOM injection (`execute_script`), and ARIA state verification. |
+| [Day&nbsp;53](./Day_53_Zillow_Data_Entry) | Zillow Data Entry | End-to-end automation linking Zillow web scraping with external Google Form submissions. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
