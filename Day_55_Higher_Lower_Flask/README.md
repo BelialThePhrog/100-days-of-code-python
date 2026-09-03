@@ -22,3 +22,7 @@ Ensure `Flask` is installed in your environment. You will need to run these scri
 To run the HTML rendering and decorator practice:
 ```bash
 python flask_practice.py
+```
+To run the Higher or Lower game:
+```bash
+python higher_lower.py
