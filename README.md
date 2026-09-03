@@ -93,6 +93,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;52](./Day_52_YT_Auto_Liker) | YouTube Auto-Liker | AI-assisted utility, JavaScript DOM injection (`execute_script`), and ARIA state verification. |
 | [Day&nbsp;53](./Day_53_Zillow_Data_Entry) | Zillow Data Entry | End-to-end automation linking Zillow web scraping with external Google Form submissions. |
 | [Day&nbsp;54](./Day_54_Flask_and_Decorators) | Flask Intro & Decorators | Web server initialization with Flask routing, and advanced Python wrapper functions (decorators). |
+| [Day&nbsp;55](./Day_55_Higher_Lower_Flask) | Higher or Lower URL Game | Flask variable URL routing (`<int:variable>`), custom HTML decorators, and inline media rendering. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
