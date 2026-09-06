@@ -23,3 +23,8 @@ Ensure `pandas` is installed. You will need the raw data files (`Ecommerce Purch
 To run the Ecommerce analysis:
 ```bash
 python ecommerce_analysis.py
+```
+To run the Ecommerce analysis:
+```bash
+python sf_salaries_analysis.py
+```
