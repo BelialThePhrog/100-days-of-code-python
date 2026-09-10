@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An automated web scraping script designed to navigate the Polish job portal Pracuj.pl[cite: 19]. It dynamically constructs search URLs based on user input (job title and location) and utilizes advanced browser automation to bypass cookie banners and wait for asynchronous job listings to load.
+An automated web scraping script designed to navigate the Polish job portal Pracuj.pl. It dynamically constructs search URLs based on user input (job title and location) and utilizes advanced browser automation to bypass cookie banners and wait for asynchronous job listings to load.
 
 ## Skills Demonstrated
 
