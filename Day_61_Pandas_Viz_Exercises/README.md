@@ -1,20 +1,20 @@
-# Day 61: Pandas Data Visualization - Exercises
+# Day 61: Pandas Data Visualization (Practice & Exercises)
 
 ## Project Overview
 
-This module serves as a practical assessment of built-in Pandas data visualization capabilities. As part of the broader Data Analytics and Machine Learning progression, the exercises demonstrate how to generate rapid, insightful plots directly from DataFrames without writing extensive `matplotlib` boilerplate.
+This module focuses on the built-in data visualization capabilities of the `pandas` library. The workflow is split into two sections: a practice script to explore fundamental plotting methods using `df1` and `df2`, and a challenge script that reconstructs target visualizations based on a specific set of parameters using `df3`
 
 ## Skills Demonstrated
 
-* **Scatter Plots:** Adjusting figure size (`figsize`), point color, and size mapping (`df.plot.scatter`).
-* **Histograms & Styling:** Modifying bin counts, transparency (`alpha`), and applying the `ggplot` style sheet for presentation-ready aesthetics.
-* **Boxplots:** Comparing distributions of multiple columns simultaneously (`df[['a', 'b']].plot.box()`).
-* **Kernel Density Estimation (KDE):** Visualizing continuous probability density and customizing line weights and styles (`style="--"`).
-* **Area Plots & Layout Management:** Slicing DataFrames (`iloc`), generating stacked area charts, and relocating the legend outside the plot boundaries using `bbox_to_anchor`.
+* **Data Importing:** Handling time-series indices (`index_col=0`) and standard CSV imports.
+* **Core Plot Types:** Generating scatter plots with custom colormaps, histograms with explicit bin counts, and boxplots for distribution comparisons.
+* **Aesthetic Tuning:** Modifying global styles via `plt.style.use('ggplot')`, adjusting alpha for transparency, and mapping colors.
+* **Advanced Charting:** Creating Kernel Density Estimation (KDE) plots with custom line weights/styles, and building stacked area charts.
+* **Layout Management:** Relocating plot legends outside the main figure boundaries using `bbox_to_anchor.
 
 ## How to Run
 
-The script generates dummy data reflecting the structure of the original exercise dataset (`df3`). 
+Ensure the `df1`, `df2`, and `df3` CSV files are in the same directory as the script.
 
 ```bash
-python pandas_viz_exercises.py
+python pandas_viz_combined.py
