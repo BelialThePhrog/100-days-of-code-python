@@ -100,6 +100,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;59](./Day_59_Matplotlib_Exercises) | Matplotlib Exercises | OO API practice: manual axes placement, inset plots, and aspect ratio tuning with `figsize`. |
 | [Day&nbsp;60](./Day_60_Seaborn_Crash_Course) | Seaborn Visualization | Advanced plotting: Grid mapping (`FacetGrid`), linear regression (`lmplot`), and global aesthetic tuning (`set_context`). |
 | [Day&nbsp;61](./Day_61_Pandas_Data_Visualization) | Pandas Data Visualization | Practice and exercises covering `df.plot` methods: scatter, hist, box, kde, and area charts with external legends. |
+| [Day&nbsp;62](./Day_62_Plotly_Cufflinks) | Interactive Visualization | Transitioning from static to interactive plots using Plotly, Cufflinks, and the Pandas Plotly backend. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
