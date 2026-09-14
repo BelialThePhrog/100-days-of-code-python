@@ -102,7 +102,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;61](./Day_61_Pandas_Data_Visualization) | Pandas Data Visualization | Practice and exercises covering `df.plot` methods: scatter, hist, box, kde, and area charts with external legends. |
 | [Day&nbsp;62](./Day_62_Plotly_Cufflinks) | Interactive Visualization | Transitioning from static to interactive plots using Plotly, Cufflinks, and the Pandas Plotly backend. |
 | [Day&nbsp;63](./Day_63_Choropleth_Maps) | Plotly Choropleth Maps | Geopolitical and macro-level demographic mapping across USA states and world projections. |
-| [Day&nbsp;63](./Day_63_911_Calls_Capstone) | EDA & Time Series | End-to-end 911 calls data analysis: feature extraction, datetime mapping, and regression/time-series visualizations. |
+| [Day&nbsp;64](./Day_64_911_Calls_Capstone) | EDA & Time Series | End-to-end 911 calls data analysis: feature extraction, datetime mapping, and regression/time-series visualizations. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
