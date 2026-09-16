@@ -1,4 +1,4 @@
-# Day XX: Linear Regression Practice Projects
+# Day 65: Linear Regression Practice Projects
 
 ## Project Overview
 
