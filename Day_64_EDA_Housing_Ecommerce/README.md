@@ -1,22 +1,32 @@
-# Day 64: Exploratory Data Analysis - Real Estate & Ecommerce
+# Day XX: Linear Regression Practice Projects
 
 ## Project Overview
-This module covers Day 64 of the 100 Days of Code challenge, focusing on Exploratory Data Analysis (EDA) across two distinct datasets: USA Housing and Ecommerce Customers. The goal is to perform initial data profiling, understand dataset structures, and visualize relationships between variables to prepare for predictive modeling.
 
-## Implemented Workflows
+Two supervised machine learning projects built while practicing linear regression with scikit-learn. The first predicts house prices from area-level housing and demographic statistics (`USA_Housing.csv`). The second predicts a customer's yearly spending for an e-commerce clothing retailer based on how they engage with the company's mobile app versus its website (`Ecommerce Customers`).
 
-### 1. USA Housing Analysis (`usa_housing_eda.py`)
-*   **Data Ingestion:** Loading real estate data and verifying its integrity using Pandas `.info()` and `.describe()`.
-*   **Structural Overview:** Inspecting columns and basic statistical distributions of features like average area income, house age, and number of rooms.
+## Skills Demonstrated
 
-### 2. Ecommerce Customers Analysis (`ecommerce_eda.py`)
-*   **Bivariate Analysis:** Utilizing Seaborn's `jointplot` to visualize correlations between continuous variables (e.g., `Time on Website` vs. `Yearly Amount Spent`).
-*   **Data Density Visualization:** Applying hexbin plots (`kind="hex"`) to effectively display dense data clusters representing app usage time against membership length.
-*   **Pairwise Relationships:** Leveraging `sns.pairplot()` to instantly visualize relationships and distributions across the entire numerical dataset.
+- **Exploratory Data Analysis:** Using `seaborn` (`pairplot`, `jointplot`, `heatmap`, `lmplot`) to visualize feature distributions and correlations before committing to a model.
+- **Feature/Target Selection:** Isolating relevant numerical predictor columns and separating them from the target variable ahead of training.
+- **Model Training:** Splitting data with `train_test_split` and fitting `sklearn.linear_model.LinearRegression`, then inspecting the resulting coefficients to interpret feature impact.
+- **Model Evaluation:** Scoring predictions with Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error (`sklearn.metrics`), then validating fit quality with residual distribution plots.
 
-## Requirements & Execution
-Ensure the `USA_Housing.csv` and `Ecommerce Customers.csv` files are present in your directory.
-```bash
+## Disclaimer & Credits
+
+The project structure and the `Ecommerce Customers` dataset/exercise were provided as part of a Python for Data Science and Machine Learning course (Pierian Data). I completed the linear regression modeling and evaluation logic myself, and independently applied the same end-to-end pipeline (EDA → train/test split → fit → evaluate → interpret coefficients) to a second dataset, `USA_Housing.csv`, as additional practice.
+
+## How to Run
+
+Ensure the relevant script (`usa_housing_regression.py` or `ecommerce_regression.py`) and its matching CSV file are in the same directory, then install dependencies:
+
+```
 pip install pandas numpy matplotlib seaborn scikit-learn
-python usa_housing_eda.py
-python ecommerce_eda.py
+```
+
+```
+python usa_housing_regression.py
+```
+
+```
+python ecommerce_regression.py
+```
