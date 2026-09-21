@@ -13,9 +13,9 @@ A complete machine learning workflow focusing on binary classification using Log
 
 ## Disclaimer & Credits
 
-The foundation for the machine learning and data analysis concepts was inspired by the "100 Days of Code™: The Complete Python Pro Bootcamp" by Dr. Angela Yu.
+The foundation for the machine learning and data analysis concepts was inspired by the "Python for Data Science and Machine Learning Bootcamp" by Jose Portilla.
 
-**Custom Upgrades & AI Collaboration:** I heavily customized this module to transition from experimental Jupyter Notebooks into a professional, production-ready modular script format. I explicitly acknowledge utilizing AI as an engineering partner to architect this clean functional structure, handle library convergence warnings (`max_iter`), resolve pandas deprecation warnings, and generate robust documentation that highlights my independent approach to Machine Learning.
+**Independent Engineering & Custom Upgrades:** I heavily customized this module to transition from experimental Jupyter Notebooks into a professional, production-ready modular script format. I independently architected the clean functional structure, handled library convergence warnings (`max_iter`), resolved `pandas` deprecation warnings, and generated robust documentation that highlights my independent approach to Machine Learning.
 
 ## How to Run
 
