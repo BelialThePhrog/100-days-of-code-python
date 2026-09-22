@@ -105,6 +105,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;64](./Day_64_911_Calls_Capstone) | EDA & Time Series | End-to-end 911 calls data analysis: feature extraction, datetime mapping, and regression/time-series visualizations. |
 | [Day&nbsp;65](./Day_64_EDA_Housing_Ecommerce) | USA Housing & Ecommerce EDA | Data profiling and bivariate visualizations (scatter, hexbin, pairplots) using Pandas and Seaborn. |
 | [Day&nbsp;66](./Day_66_Logistic_Regression) | Titanic & Advertising Classification | Binary classification using Logistic Regression, custom data imputation, and categorical feature engineering. |
+| [Day&nbsp;67](./Day_67_KNN_Project) | K Nearest Neighbors Classification | Building a KNN classifier, standardizing feature scales, and optimizing the K parameter using the Elbow Method. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
