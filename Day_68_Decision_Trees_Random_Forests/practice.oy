@@ -1,0 +1,61 @@
+"""
+Decision Trees & Random Forests Practice
+------------------------------------------
+This script predicts the presence of Kyphosis after surgery. 
+It demonstrates Exploratory Data Analysis (EDA) and compares 
+a single Decision Tree with a Random Forest ensemble.
+
+Dataset: kyphosis.csv
+Algorithms: DecisionTreeClassifier, RandomForestClassifier
+"""
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, confusion_matrix
+
+def main():
+    # Load Data
+    df = pd.read_csv('kyphosis.csv')
+    print("Dataset Info:")
+    df.info()
+    print("\nDataset Head:")
+    print(df.head())
+
+    # Exploratory Data Analysis
+    sns.pairplot(df, hue='Kyphosis')
+    plt.show()
+
+    # Train/Test Split
+    X = df.drop('Kyphosis', axis=1)
+    y = df['Kyphosis']
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=101)
+
+    # Single Decision Tree Model
+    print("\n--- Decision Tree Evaluation ---")
+    dtree = DecisionTreeClassifier()
+    dtree.fit(X_train, y_train)
+    predictions = dtree.predict(X_test)
+    
+    print("Confusion Matrix:")
+    print(confusion_matrix(y_test, predictions))
+    print("\nClassification Report:")
+    print(classification_report(y_test, predictions))
+
+    # Random Forest Model
+    print("\n--- Random Forest Evaluation ---")
+    rfc = RandomForestClassifier(n_estimators=300)
+    rfc.fit(X_train, y_train)
+    rfc_pred = rfc.predict(X_test)
+    
+    print("Confusion Matrix:")
+    print(confusion_matrix(y_test, rfc_pred))
+    print("\nClassification Report:")
+    print(classification_report(y_test, rfc_pred))
+
+if __name__ == "__main__":
+    main()
