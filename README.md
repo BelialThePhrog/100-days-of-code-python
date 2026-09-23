@@ -106,6 +106,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;65](./Day_64_EDA_Housing_Ecommerce) | USA Housing & Ecommerce EDA | Data profiling and bivariate visualizations (scatter, hexbin, pairplots) using Pandas and Seaborn. |
 | [Day&nbsp;66](./Day_66_Logistic_Regression) | Titanic & Advertising Classification | Binary classification using Logistic Regression, custom data imputation, and categorical feature engineering. |
 | [Day&nbsp;67](./Day_67_KNN_Project) | K Nearest Neighbors Classification | Building a KNN classifier, standardizing feature scales, and optimizing the K parameter using the Elbow Method. |
+| [Day&nbsp;68](./Day_68_Decision_Trees_Random_Forests) | Decision Trees & Random Forests | Classification of Lending Club loan data and Kyphosis medical data using Decision Trees and Random Forest ensembles. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
