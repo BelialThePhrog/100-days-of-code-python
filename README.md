@@ -108,6 +108,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;67](./Day_67_KNN_Project) | K Nearest Neighbors Classification | Building a KNN classifier, standardizing feature scales, and optimizing the K parameter using the Elbow Method. |
 | [Day&nbsp;68](./Day_68_Decision_Trees_Random_Forests) | Decision Trees & Random Forests | Classification of Lending Club loan data and Kyphosis medical data using Decision Trees and Random Forest ensembles. |
 | [Day&nbsp;69](./Day_69_SVM) | Support Vector Machines | Building a baseline SVC model and optimizing hyperparameters (C and gamma) using GridSearchCV for breast cancer classification. |
+| [Day&nbsp;70](./Day_70_KMeans_Clustering) | K-Means Clustering | Unsupervised machine learning project clustering universities into public and private categories. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
