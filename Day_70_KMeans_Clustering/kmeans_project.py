@@ -6,7 +6,6 @@ to cluster universities into two groups (Private vs. Public)
 based on their features, and evaluates the performance using 
 the actual labels.
 
-Based on: Untitled (19).ipynb
 Dataset: College_Data
 """
 
