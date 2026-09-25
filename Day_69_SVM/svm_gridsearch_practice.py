@@ -5,7 +5,6 @@ This script trains a Support Vector Classifier (SVC) on the
 breast cancer dataset. It demonstrates baseline model training 
 and hyperparameter tuning using GridSearchCV to improve accuracy.
 
-Based on: "Untitled (18).ipynb"
 Dataset: Breast Cancer (sklearn.datasets)
 """
 
