@@ -1,20 +1,24 @@
-# 🚀 100 Days of Code Challenge
+# 🚀 100 Days of Code & Machine Learning Portfolio
 
-Welcome to my repository! I'm documenting my daily progress and projects from the **100 Days of Code** challenge here. Each folder represents a single day of learning and a new mini-project.
+Welcome to my repository! I'm documenting my daily progress and projects from the **100 Days of Code** challenge, which has naturally evolved into advanced Data Science and Machine Learning implementations. Each folder represents a single day of learning and a new mini-project.
 
 ## 🎓 Acknowledgements & Learning Approach
 
-The foundational concepts and daily project prompts in this repository are inspired by the **"100 Days of Code™: The Complete Python Pro Bootcamp"** by Angela Yu. 
+The foundational concepts and daily project prompts in this repository are inspired by two comprehensive bootcamps:
+* **"100 Days of Code™: The Complete Python Pro Bootcamp"** by Angela Yu
+* **"Python for Data Science and Machine Learning Bootcamp"** by Jose Portilla
 
 However, this repository is not a collection of copied course material. My development workflow follows a strict, independent engineering approach:
 
 1. **Independent Implementation:** I design the architecture and write the core logic for the daily challenges entirely on my own, relying on official documentation and problem-solving skills.
-2. **Code Review & Optimization:** I treat the instructor's solutions as a code review-comparing paradigms, identifying edge cases, and adopting best practices.
+2. **Production-Ready Refactoring:** I actively transition experimental code (like Jupyter Notebooks used for Exploratory Data Analysis) into professional, modular, and robust Python scripts.
+3. **Code Review & Optimization:** I treat the instructors' solutions as a code review—comparing paradigms, identifying edge cases, and adopting best practices.
 
 ## 🛠 Technologies
 * **Language:** Python 3.x 
-* **Key Libraries:** Tkinter, Pandas, Turtle, json, math, time, random, colorgram
-* **Tools:** Jupyter notebook
+* **Data Science & ML Libraries:** Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib
+* **Standard & GUI Libraries:** Tkinter, Turtle, json, math, time, random, colorgram
+* **Tools & Environments:** Standard Python environment (for modular `.py` scripts) and Jupyter Notebooks (for EDA)
 
 ## 📂 Repository Structure
 All days are organized into separate folders. Each folder contains the source code for that day's specific project.
