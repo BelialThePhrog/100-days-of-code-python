@@ -114,6 +114,7 @@ Here I keep track of my daily projects and what I've learned.
 | [Day&nbsp;69](./Day_69_SVM) | Support Vector Machines | Building a baseline SVC model and optimizing hyperparameters (C and gamma) using GridSearchCV for breast cancer classification. |
 | [Day&nbsp;70](./Day_70_KMeans_Clustering) | K-Means Clustering | Unsupervised machine learning project clustering universities into public and private categories. |
 | [Day&nbsp;71](./Day_71_PCA) | Principal Component Analysis | Dimensionality reduction and variance visualization of the Breast Cancer dataset using PCA and Seaborn. |
+| [Day&nbsp;72](./Day_72_Recommender_Systems) | Recommender Systems | Item-based collaborative filtering to recommend movies using Pandas pivot tables and correlation matrices. |
 
 ---
 *If you have any feedback or suggestions regarding my code, feel free to reach out. I'm always open to constructive criticism!*
